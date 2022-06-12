@@ -1,0 +1,5 @@
+nextjs,react
+tailwindcss
+typescript
+sanity
+groq
